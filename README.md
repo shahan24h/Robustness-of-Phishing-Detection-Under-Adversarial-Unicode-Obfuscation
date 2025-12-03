@@ -8,7 +8,8 @@
 ##  Overview
 
 Unicode-based adversarial obfuscation techniques—such as homoglyph substitution and zero-width character injection—are increasingly used to evade NLP-based security systems.  
-In **Project #1**, I showed that such attacks devastate keyword- and rule-based detectors.
+In **Social-Engineering-Adversarial-Obfuscation-in-BEC-Emails (path: https://github.com/shahan24h/Social-Engineering-Adversarial-Obfuscation-in-BEC-Emails.git) 
+I showed that such attacks devastate keyword- and rule-based detectors.
 
 This project investigates a follow-up question:
 
